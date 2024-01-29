@@ -1,6 +1,6 @@
 delay: P14D
 participants:
-  - username: The-Huginn
+  - email: rbudinsk@redhat.com
     days: [MONDAY]
     projects:
       - project: WFLY
